@@ -1,5 +1,5 @@
 
-![도식](./Program_structure.drawio1.png)
+![도식](./Program_structure.drawio.png)
 
 ## 클래스 도식
 ##### 도형 클래스
